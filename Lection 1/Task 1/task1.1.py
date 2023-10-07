@@ -1,0 +1,1 @@
+print ("Veronika\n" + "Sytenkova")
